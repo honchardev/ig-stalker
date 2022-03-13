@@ -1,0 +1,3 @@
+class StoryUtils(object):
+
+    pass

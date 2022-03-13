@@ -1,0 +1,3 @@
+class UserUtils(object):
+
+    pass

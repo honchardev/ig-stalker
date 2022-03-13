@@ -1,0 +1,3 @@
+class StoryParser(object):
+
+    pass
